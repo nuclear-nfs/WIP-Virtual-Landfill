@@ -1,0 +1,10 @@
+Sulfoxide requires a 64-bit system; otherwise it won't run
+
+
+REGISTRY KEYS FOR SULFOXIDE:
+(They must be in HKCU\Software\Sulfoxide; Make the key yourself)
+
+DisableBsod (DWORD) - If 0x1, it disables the fake BSOD payload
+DisableLayeredWindows (DWORD) - If 0x1, it leaves out the layered window payloads
+DisableBsodResolution (DWORD) - If 0x1, it prevents the BSOD from changing the screen resolution
+EnableSafeMode (DWORD) - If 0x1, (Might not be fully safe; the binary contains malicious data) it makes Sulfoxide safe
