@@ -13,3 +13,6 @@ They may be coded in:
 - C/C++
 - C#
 - Python.
+
+# 🤔 I can't find some malwares. Where are they? 🤔
+Some people's malwares, e.g. kapi2.0peys's, are in a release, because the folder is too large (>25 MB).
