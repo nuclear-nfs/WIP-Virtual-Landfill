@@ -16,3 +16,6 @@ They may be coded in:
 
 # 🤔 I can't find some malwares. Where are they? 🤔
 Some people's malwares, e.g. kapi2.0peys's, are in a release, because the folder is too large (>25 MB).
+
+# 🤔 I can't find any malware. Where is it? 🤔
+This GitHub repository is divided into branches instead of folders. For example, if you want Clutt6.6.6 by ClutterTech, you must go to the GDI branch, not the main branch.
